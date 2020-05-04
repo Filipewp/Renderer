@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\filip\Desktop\CGA-Renderer\CGA-Renderer\CGA-Renderer\vec3.h(50,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\filip\Desktop\CGA-Renderer\CGA-Renderer\CGA-Renderer\main.cpp(6,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\filip\Desktop\CGA-Renderer\CGA-Renderer\CGA-Renderer\main.cpp(7,17): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\filip\Desktop\CGA-Renderer\CGA-Renderer\CGA-Renderer\main.cpp(7,68): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  CGA-Renderer.vcxproj -> C:\Users\filip\Desktop\CGA-Renderer\CGA-Renderer\Debug\CGA-Renderer.exe
